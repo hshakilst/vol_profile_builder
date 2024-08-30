@@ -5,7 +5,7 @@ vol_profile_builder is a script to build a volatility ubuntu profile based on gi
 ## Usage
 
 ```bash
-$ ./build.sh os_version kernel_version
+$ ./build.sh os_version kernel_version platform
 ```
 
 ## Authors
